@@ -15,6 +15,7 @@ namespace proyecto_taller2
         public Form1()
         {
             InitializeComponent();
+            // Initialize the form and its components
         }
 
         private void Form1_Load(object sender, EventArgs e)
